@@ -1,23 +1,23 @@
 
 h1
 {
-    position:relative;
-    margin:0 -1px;
-    font:bold 30px/1.6 Arial, Helvetica, sans-serif;
-    font-size:50px;
-    text-align:center;
-    color:white;
-    background: magenta;
-    -webkit-transform: rotate(-3deg) skew(-3deg);
-    -moz-transform: rotate(-3deg) skew(-3deg);
-    -o-transform: rotate(-3deg) skew(-3deg);
-    -ms-transform: rotate(-3deg) skew(-3deg);
-    transform: rotate(-3deg) skew(-3deg);
-    text-shadow:1px 1px 0 rgba(255,255,255,1);
-    box-shadow: 0 1px 2px 0 rgba(0,0,0,0.2),
-    30px 0 0 0 magenta,
-   -30px 0 0 0 magenta;
-   font-family:Monotype Corsiva;
+	position:relative;
+	margin:0 -1px;
+	font:bold 30px/1.6 Arial, Helvetica, sans-serif;
+	font-size:50px;
+	text-align:center;
+	color:white;
+	background: magenta;
+	-webkit-transform: rotate(-3deg) skew(-3deg);
+	-moz-transform: rotate(-3deg) skew(-3deg);
+	-o-transform: rotate(-3deg) skew(-3deg);
+	-ms-transform: rotate(-3deg) skew(-3deg);
+	transform: rotate(-3deg) skew(-3deg);
+	text-shadow:1px 1px 0 rgba(255,255,255,1);
+	box-shadow: 0 1px 2px 0 rgba(0,0,0,0.2),
+	30px 0 0 0 magenta,
+	-30px 0 0 0 magenta;
+   	font-family:Monotype Corsiva;
 }
 
 br.space
