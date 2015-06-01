@@ -1,10 +1,10 @@
 <!--
-var kadai2_PassCheck ={};
+var PassCheck ={};
 	
 	
 (function(){
 
-	kadai2_PassCheck.Password = function(){
+	PassCheck.Password = function(){
 		var pass = document.Checker_form.textbox.value;
 		var length = pass.length;
 		
@@ -123,7 +123,7 @@ var kadai2_PassCheck ={};
 	
 
 	document.addEventListener("DOMContentLoaded", function(){
-			kadai2_PassCheck.Password();
+			PassCheck.Password();
 	}, false);
 	
 })();
